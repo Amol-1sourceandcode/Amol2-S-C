@@ -1,2 +1,1 @@
-Amol please check the git diff commands
-
+to check gitignore
