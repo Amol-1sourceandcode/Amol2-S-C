@@ -1,2 +1,3 @@
 HEllo amol
-now going to gitignore 
+now going to gitignor
+rd try to put in gitignor
