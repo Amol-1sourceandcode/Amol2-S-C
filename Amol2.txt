@@ -1,3 +1,4 @@
 HEllo amol
 now going to gitignor
 rd try to put in gitignor
+3rd
