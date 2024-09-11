@@ -1,12 +1,2 @@
-Hello amol
-
-support session
-
-Hello Amol
-git g
-Amol 
-12
-12
-1
-2
+Amol please check the git diff commands
 

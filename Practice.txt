@@ -1,5 +1,0 @@
-Amol J
-amol aj
-Date 11-09-2024
-
-To cheeck command git checkout 
